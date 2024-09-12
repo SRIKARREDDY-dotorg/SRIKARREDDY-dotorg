@@ -26,6 +26,8 @@ I'm a FullStack Developer specializing in Java, ReactJS, and AWS. I love buildin
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRIKARREDDY-dotorg&show_icons=true&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=SRIKARREDDY-dotorg&theme=radical&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRIKARREDDY-dotorg&layout=compact&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SRIKARREDDY-dotorg)
