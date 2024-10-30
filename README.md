@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a FullStack Developer specializing in Java, ReactJS, and AWS. I love building scalable applications and solving complex problems.
 
-- 🔭 I’m currently working on BlogApp.
+- 🔭 I’m currently working on BlogApp [link](https://blogapp-ph1b.onrender.com/) repo: [link](https://github.com/SRIKARREDDY-dotorg/BlogApp).
 - 🌱 I’m currently learning FullStack Web Development.
 - 👯 I’m looking to collaborate on FullStack Projects.
 - 💬 Ask me about anything related to Web Development.
